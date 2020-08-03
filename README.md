@@ -1,2 +1,0 @@
-# Pogwarewebsite
-PogWares official website
